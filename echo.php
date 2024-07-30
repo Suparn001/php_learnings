@@ -12,6 +12,6 @@ echo "hello"." how are you<br>";
 
  // using print 
 
- print "<br>hello how are you<br>";
+ print "<br>hello how are you\n";
  print 2345.890;
 ?>
